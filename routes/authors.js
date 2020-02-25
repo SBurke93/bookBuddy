@@ -39,7 +39,7 @@ router.post('/', async (req, res) => {
   try {
     const newAuthor = await author.save()
     res.redirect(`authors`)
-  } catch {
+  } catch(e) {
     res.render('authors/new', {
       author: author,
       errorMessage: 'Error creating Author'
