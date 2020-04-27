@@ -1,5 +1,5 @@
 # bookBuddy
-A RESTful  Express.js API to keep track of books you would like to read in the coming months and years. 
+A RESTful Express.js web application to track newly released and cult classic novels of interest and store them for future reading/purchasing.
 
 Book buddy is a personal web application that simply allows you to store and sort books and authors of interest. Simply take a snapshot of your book in the store of from the web, give it a title and voila! 
 
