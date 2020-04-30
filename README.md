@@ -7,3 +7,5 @@ Book buddy was built using Mongodb to store authors and books. A simple RESTful 
 
 Express js has been used to inject functionality and allow universal Javascript. 
 Middleware created to handle errors creating books/authors as to not have bloated functions.
+
+some more nonsense as my contributions are no longer showing up...
